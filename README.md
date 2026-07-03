@@ -499,6 +499,138 @@ fig.tight_layout()
 ```
 
 
+## Python Fundamentals
+In this analysis, we learned how to navigate Python using numerical variables and measurements. 
+
+```python
+# Any python interpreter can be used as a calculator
+3 + 5 * 4
+```
+
+
+
+
+    23
+
+
+
+
+```python
+# Lets save a value to a variable 
+weight_kg = 60
+```
+
+
+```python
+print(weight_kg)
+```
+
+    60
+
+
+
+```python
+# weight0 = valid
+# 0weight = invalid
+# weight and Weight are different 
+```
+
+
+```python
+# Types of data
+# There are three common types of data
+# Integer numbers 
+# floating point numbers
+# Strings
+```
+
+
+```python
+# Floating point number
+weight_kg = 60.3
+```
+
+
+```python
+# String comprised of letters
+patient_name = "John Smith"
+```
+
+
+```python
+# String comprised of numbers
+patient_id = '001'
+```
+
+
+```python
+# Use variables in python
+
+weight_lb = 2.2 * weight_kg
+
+print(weight_lb)
+```
+
+    132.66
+
+
+
+```python
+# Lets add a prefix to our patient id
+
+patient_id = 'inflam_' + patient_id
+
+print(patient_id)
+```
+
+    inflam_inflam_inflam_inflam_inflam_inflam_inflam_inflam_001
+
+
+
+```python
+# Lets combine print statements
+
+print(patient_id, 'weight in kilograms:',weight_kg)
+```
+
+    inflam_inflam_inflam_inflam_inflam_inflam_inflam_inflam_001 weight in kilograms: 60.3
+
+
+
+```python
+# we can call a function inside another function
+
+print(type(60.3))
+
+print(type(patient_id))
+```
+
+    <class 'float'>
+    <class 'str'>
+
+
+
+```python
+# We can also do calculations inside the print function
+
+print('weight in lbs:',2.2 * weight_kg)
+```
+
+    weight in lbs: 132.66
+
+
+
+```python
+print(weight_kg)
+```
+
+    60.3
+
+
+
+```python
+
+```
 
 
 
