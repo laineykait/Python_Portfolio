@@ -1,8 +1,8 @@
 # Python_Portfolio_Ray
 This is the portfolio of Python code that I learned during BISC 4503-384
 
-Using Jupyter Notebooks (1 and 2)
-## In this analysis, we learned how to import data from Fortune 500 companies and manipulate the data with Python to create graphs and tables.
+## Using Jupyter Notebooks (1 and 2)
+In this analysis, we learned how to import data from Fortune 500 companies and manipulate the data with Python to create graphs and tables.
 
 ```python
 %matplotlib inline
