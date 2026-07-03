@@ -867,7 +867,6 @@ print(numpy.mean(data, axis =1))
 
 
 
-
 ## Analyzing Patient Data Pt. 3
 In this analysis, we continued manipulating inflammation patient data and created graphs from the mean, max, and min data.
 
